@@ -63,8 +63,9 @@ I'm a **declared melomaniac** who loves discovering new music, and I enjoy watch
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:lagoslopezleonardo@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22otpabycll2umubub45zzqmi)
 
-### 🎵 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing-leolagos.vercel.app/api/spotify)](https://open.spotify.com/user/22otpabycll2umubub45zzqmi)
+
+### 🎵 Now Playing on Spotify  
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22otpabycll2umubub45zzqmi)](https://open.spotify.com/user/22otpabycll2umubub45zzqmi)
 
 ### 😄 Pronouns: He/Him
 
