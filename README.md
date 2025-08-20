@@ -59,8 +59,7 @@ I'm a **declared melomaniac** who loves discovering new music, and I enjoy watch
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lagos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-lagos)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:lagoslopezleonardo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lagos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-lagos)
 
 ### 😄 Pronouns: He/Him
 
