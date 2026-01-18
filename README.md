@@ -73,11 +73,13 @@ I'm a **declared melomaniac** who loves discovering new music, and I enjoy watch
 ## 🎵 The Sound of the System (Melomaniac Corner)
 > "Desktop rice: Hyprland. Audio rice: Hypertechno. Syncing frequencies for maximum throughput."
 
-| Module | Protocol / Specs | Description | Access |
+| Module | System Logic | Description | Access |
 | :--- | :--- | :--- | :--- |
-| **`HARDCODE-KERN.de`** | **160+ BPM // .de** | **Antrieb for the German Engine.** Hardcore-Techno for raw execution; Deutschrap for the syntax. **Übertaktet** for high-pressure debugging. | [🎧 Listen](#) |
-| **`HARDCODE-EXPLOIT.en`** | **160+ BPM // .en** | **Maximum frequency injection** for parallel tasks. English vocals + Industrial kicks = Max Debugging Throughput. Bypassing the firewall of distraction. | [🛡️ Listen](#) |
-| **`logic-flow.h`** | **124-136 BPM // .h** | **Architectural soundscapes** for design and refactoring. Garbage-collected frequencies for mental clarity. **Human After All**, but optimized for the machine. | [🤖 Listen](#) |
+| **`system-init.yml`** | **90-110 BPM // .yml** | **Clock Speed: Steady.** Atmospheric soundscapes for initialization and deep planning. High-torque, low-frequency focus. | [🎧](https://open.spotify.com/playlist/6zau26g8ZsEHJiiLczmhY0?si=21f2201641474a52) |
+| **`logic-flow.h`** | **111-130 BPM // .h** | **Clock Speed: Oscillating.** Architectural soundscapes for system design, refactoring, and documentation. **Human After All.** | [🤖](https://open.spotify.com/playlist/21mYcOdSHA5AFZ6fmu7PID?si=09460d482be54e72) |
+| **`mechanical-drive.sys`** | **131-145 BPM // .sys** | **Clock Speed: High-Torque.** Industrial Electro & Robotic rhythms for sustained mechanical execution. No latency. | [⚙️](https://open.spotify.com/playlist/3RMdWTM6uKH5QMjRrbhCf7?si=9cde822af59748cc) |
+| **`HARDCODE-EXPLOIT.en`** | **146-160+ BPM // .en** | **Clock Speed: Overclocked.** Tactical frequency injection for debugging. Bypassing the firewall of distraction. | [🛡️](https://open.spotify.com/playlist/2WTmQtmVV0SpR4iOEHrBJS?si=ce23956e00234e22) |
+| **`HARDCODE-KERN.de`** | **81-194 BPM // .de** | **Clock Speed: Adaptive Scaling.** German Kernel (Index). Hardware: Kernel-Level—from syntax acquisition to high-frequency debugging. | [🇩🇪](https://open.spotify.com/playlist/0oPk7Wvnajkh5C449hLnZA?si=55861217700644ad) |
 
 *Currently analyzing: **German Electronic Scenes & Deutschrap 🇩🇪** and **Coffee Origin Soundscapes 🌿***
 
