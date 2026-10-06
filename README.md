@@ -3,7 +3,9 @@
 
 #### "Architecting resilient systems, nurturing healthy ecosystems."
 
-### 🚀 The "Knowledge DevOps" Edge
+> 🎯 **Open to DevSecOps & Cloud Security internships and junior roles.**
+
+## 🚀 The "Knowledge DevOps" Edge
 
 I treat my professional growth as an engineering project. My "Second Brain" is a custom **Obsidian environment** integrated with **Bash scripts and Python automation**. By treating my learning as **Documentation-as-Code**, I ensure my technical knowledge is as version-controlled and reliable as a production environment.
 
@@ -12,61 +14,69 @@ I treat my professional growth as an engineering project. My "Second Brain" is a
 
 ---
 
-## 🌿 Beyond the Terminal (About Me)
+## 📂 Projects
 
-I'm a **proud Latino** with a huge passion for coffee ☕, nature 🌿, and animals 🐕. When I'm not diving into code or hardening my Fedora environment, you'll probably find me hiking mountains, traveling to new places, or making new friends over a good cup of coffee.
-
-I'm a **declared melomaniac** who loves discovering new music, and I enjoy watching great movies that tell powerful stories. I believe in building genuine connections and bringing positive energy everywhere I go!
-
-* **Human Hardware**: I apply the same consistency to my gym routine as I do to my coding sprints. High-output cognitive work requires a high-performance physical state.
-* **Global Mindset**: Currently upgrading my "Human OS" by learning **German 🇩🇪** to expand my professional horizons.
+| Project | What it is | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **AUTOnomIA** 🏆 | Visitor-access kiosk system, FEPRO 2026 winner | Go, PostgreSQL, Flutter | 🚧 In Dev |
+| **[Dotfiles](https://github.com/LeoooLagOS/dotfiles)** | Linux hardening & workflow automation | Bash, Git | ✅ Active |
+| **[Concurrency & Parallelism](https://github.com/LeoooLagOS/Concurrency-and-Parallelism-Programming)** | Multithreading, race conditions, parallel algorithms | Java, C (OpenMP) | ✅ Done |
+| **[System Monitor](https://github.com/LeoooLagOS/advanced-system-monitor)** | Real-time terminal system monitor (TUI) | Python, psutil, Rich | ⏸️ Paused |
 
 ---
 
-## 🎓 Academic Hardware & 🛡️ Validated Protocols
+## 🏆 Research & Achievements
 
-### **Education**
+* 🧠 **Research Intern, Verano Delfín 2026** | *CIC-IPN, Mexico City* (Jun – Jul 2026)
+    * Neural control of a robotic arm through a motor-imagery **Brain-Computer Interface (BCI)**, advised by Dr. Juan Humberto Sossa Azuela.
+    * Managed the Linux/Python environments for the ML pipeline and restructured the team's repositories and Git workflow.
+* 🏆 **1st Place, FEPRO 2026 Industry Challenge (BUAP × Kigo)** with *AUTOnomIA* (team Zero Devs).
+* 🎤 **Participant, XV Congreso Nacional de Ciencias de la Computación (CONACIC)** | Oct 2025
+
+---
+
+## 🛠️ Tech Stack
+
+| **Security** | **Networking** | **Languages** | **Backend & Mobile** | **Cloud & DevOps** |
+|:---|:---|:---|:---|:---|
+| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) | ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=flat) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) |
+| ![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=flat&logo=nmap&logoColor=black) | ![DNS & DHCP](https://img.shields.io/badge/DNS_%26_DHCP-000000?style=flat) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=flat&logo=metasploit&logoColor=white) | ![Subnetting](https://img.shields.io/badge/Subnetting-000000?style=flat) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+## 🎓 Education & Certifications
+
+### Education
 * **B.S. in Computer Science Engineering**
-    * *Benemérita Universidad Autónoma de Puebla (BUAP)* | 2022 – 2027 (Expected)
+    * *Benemérita Universidad Autónoma de Puebla (BUAP)* | 2022 – Aug 2027 (Expected)
     * **Core Modules:** Distributed Systems, Network Administration, Data Mining, and Mobile App Development.
 
-### **Certifications & Training**
+### Certifications & Training
 | Credential | Issuer | Date | Status |
 | :--- | :--- | :--- | :--- |
+| **CCNA 3: Enterprise Networking, Security, and Automation** | Cisco | May 2026 | ![Verified](https://img.shields.io/badge/-Verified-success?style=flat-square) |
 | **CCNA 2: Switching, Routing, and Wireless Essentials** | Cisco | Nov 2025 | ![Verified](https://img.shields.io/badge/-Verified-success?style=flat-square) |
+| **CCNA 1: Introduction to Networks** | Cisco | May 2025 | ![Verified](https://img.shields.io/badge/-Verified-success?style=flat-square) |
+| **Google Cybersecurity Professional Certificate** (8 courses) | Google / Coursera | Apr 2025 | ![Verified](https://img.shields.io/badge/-Verified-success?style=flat-square) |
+| **Generative AI Learning Path** (GenAI, LLMs, Responsible AI, Vertex AI Prompt Design) | Google Cloud | 2025 | ![Completed](https://img.shields.io/badge/-Completed-blue?style=flat-square) |
+| **Java Foundations** | Oracle Academy | Jul 2024 | ![Verified](https://img.shields.io/badge/-Verified-success?style=flat-square) |
 | **Oracle Academy Mentorship Program** | Oracle | Nov 2024 | ![Completed](https://img.shields.io/badge/-Completed-blue?style=flat-square) |
 | **Cyber Security Global Participant** | BUAP | 2024, 2025 | ![Active](https://img.shields.io/badge/-Active-orange?style=flat-square) |
 
 ---
 
-### 🛠️ Tech Stack
+## 🌿 Beyond the Terminal (About Me)
 
-| **Security** | **Networking** | **Programming** | **Cloud & Tools** |
-|--------------|----------------|-----------------|-------------------|
-| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) | ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=cisco&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) |
-| ![Nmap](https://img.shields.io/badge/Nmap-FFFFFF?style=flat&logo=nmap&logoColor=black) | ![DNS & DHCP](https://img.shields.io/badge/DNS_&_DHCP-000000?style=flat&logo=network&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=flat&logo=metasploit&logoColor=white) | ![Subnetting](https://img.shields.io/badge/Subnetting-000000?style=flat&logo=router&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+I'm a **proud Latino** who runs on coffee ☕, nature 🌿, and good music 🎵. When I'm not diving into code or hardening my Fedora environment, you'll probably find me hiking mountains, traveling to new places, or making new friends over a good cup of coffee. I believe in building genuine connections and bringing positive energy everywhere I go!
 
----
-
-## 🔭 Engineering Roadmap & Research
-
-* **[Dotfiles](https://github.com/LeoooLagOS/dotfiles):** Custom Linux hardening and workflow automation.
-* **System Monitor (In Dev):** Real-time observability tool using Python, Flask, and Docker targeting AWS.
-* **Secure Banking API (Research):** Architecting a Java backend to test and mitigate **OWASP Top 10** vulnerabilities in distributed systems.
-
-## 📂 Featured Engineering Projects
-
-### 🧵 [Concurrency & Parallelism](https://github.com/LeoooLagOS/Concurrency-and-Parallelism-Programming)
-**Focus:** High-performance computing and resource synchronization.
-* **Key Implementations:** Java Multithreading, Race Condition mitigation, and Parallel Algorithms using OpenMP.
-* **Why it matters:** Essential for understanding system reliability and building thread-safe backend architectures.
-
-### 💎 [Jewelry E-Commerce MVP](https://github.com/LeoooLagOS/Uni-WebDev-Final-Project)
-**Focus:** Full-stack development and architectural patterns.
-* **Tech Stack:** PHP, Laragon, MySQL.
-* **Challenge:** Developed as a university final project, focusing on the end-to-end lifecycle of a web application from database design to UI.
+* **Perfect Day**: Coffee + coding + hiking + good music. That's the whole spec.
+* **Declared Melomaniac**: I love discovering new music and can talk for hours about **genres** and **movie soundtracks**, especially from films that tell powerful stories. *(Full audio stack below 👇)*
+* **Human Hardware**: I apply the same consistency to my gym routine as I do to my coding sprints. High-output cognitive work requires a high-performance physical state.
+* **Global Mindset**: Spanish (native) 🇲🇽, English (C1) 🇺🇸, and currently upgrading my "Human OS" with **German (A1) 🇩🇪** to expand my professional horizons.
+* **Coding Companions**: My dogs 🐕 are my official pair-programmers and stress relievers.
+* **Always Exploring**: There's always a **next adventure** being planned, whether in code or in nature 🌄
 
 ---
 
@@ -85,28 +95,21 @@ I'm a **declared melomaniac** who loves discovering new music, and I enjoy watch
 
 ---
 
-### 👯 Let's Connect & Collaborate
+## 👯 Let's Connect & Collaborate
 * **Open Source:** I'm looking to contribute to **Security or Sustainability** projects, especially those with social or environmental impact.
 * **Community:** I love connecting with fellow **Latin American developers** and tech-meets-nature initiatives. 
-* **Opportunities:** I am seeking an **Internship or Junior role** in DevSecOps or Cloud Security where I can apply my automation mindset.
 
 ### 💬 Ask me about:
 * **Knowledge Management:** How I use Obsidian for "Second Brain" engineering.
-* **Networking:** CCNA 2 (Switching, Routing, and Wireless Essentials).
+* **Networking:** The full CCNA path, from switching and routing to OSPF, ACLs, and network automation.
+* **Research:** Turning EEG signals into robotic arm commands with a BCI.
 * **Life:** Hiking trails, movie soundtracks, or favorite coffee origins. ☕
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo_Lagos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonardo-lagos)
+[![Email](https://img.shields.io/badge/Email-developer.lagos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.lagos@gmail.com)
 
 ### 😄 Pronouns: He/Him
-
----
-
-### ⚡ Fun facts:
-- My perfect day: **Coffee + coding + hiking + good music** 🎵
-- I can talk for hours about **music genres** and **movie soundtracks**
-- My dogs are my **official coding companions** and stress relievers 🐕
-- I'm always planning my **next adventure** - whether in code or in nature 🌄
 
 ---
 
